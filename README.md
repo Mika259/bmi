@@ -9,12 +9,11 @@ Required
 python
 </pre>
 
-<h3>Thanks For Using my tool , im a newbie</h3>
+<h3>Thanks For Using my tool</h3>
 
 How to use it ..
 
-Type in your terminal,
-It using python script
+Type in your terminal
 ```console
 git clone https://github.com/Mika259/bmi
 ```
