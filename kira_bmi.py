@@ -1,7 +1,19 @@
 #  BMI Calculator
 #  Formula Bmi = kg/tinggi^2
 #  Latihan Pengulangan Saya
+banner = """
+▄▄   ▄▄▄     ██                         ▄▄▄▄▄▄                 ██
+ ██  ██▀      ▀▀                         ██▀▀▀▀██               ▀▀
+ ██▄██      ████      ██▄████   ▄█████▄  ██    ██  ████▄██▄   ████
+ █████        ██      ██▀       ▀ ▄▄▄██  ███████   ██ ██ ██     ██
+ ██  ██▄      ██      ██       ▄██▀▀▀██  ██    ██  ██ ██ ██     ██
+ ██   ██▄  ▄▄▄██▄▄▄   ██       ██▄▄▄███  ██▄▄▄▄██  ██ ██ ██  ▄▄▄██▄▄▄
+ ▀▀    ▀▀  ▀▀▀▀▀▀▀▀   ▀▀        ▀▀▀▀ ▀▀  ▀▀▀▀▀▀▀   ▀▀ ▀▀ ▀▀  ▀▀▀▀▀▀▀▀
+Author:Mika259
+Github:https://github.com/Mika259
+"""
 
+print(banner)
 import time
 print("Kalkulator Bmi")
 
