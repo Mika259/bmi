@@ -5,9 +5,9 @@ This Tool Available in Malay
 <b>This tool is used to calculate your bmi</b>
 
 Required
-<pre>
-python
-</pre>
+
+- python
+
 
 <h3>Thanks For Using my tool</h3>
 
